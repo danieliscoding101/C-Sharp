@@ -1,0 +1,16 @@
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\bin\Debug\dbDocente.exe.config
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\bin\Debug\dbDocente.exe
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\bin\Debug\dbDocente.pdb
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\bin\Debug\MySql.Data.dll
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\bin\Debug\Google.Protobuf.dll
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\bin\Debug\Renci.SshNet.dll
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\bin\Debug\MySql.Data.xml
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\obj\Debug\dbDocente.csproj.AssemblyReference.cache
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\obj\Debug\dbDocente.Form1.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\obj\Debug\dbDocente.Properties.Resources.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\obj\Debug\dbDocente.csproj.GenerateResource.cache
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\obj\Debug\dbDocente.csproj.CoreCompileInputs.cache
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\obj\Debug\dbDocente.exe
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\BasesDeDatos\dbDocente\obj\Debug\dbDocente.pdb

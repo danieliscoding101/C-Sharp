@@ -1,0 +1,35 @@
+C:\Users\Kalia\Desktop\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\bin\Debug\Clase11_f10-12ArreglosMetodos.exe.config
+C:\Users\Kalia\Desktop\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\bin\Debug\Clase11_f10-12ArreglosMetodos.exe
+C:\Users\Kalia\Desktop\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\bin\Debug\Clase11_f10-12ArreglosMetodos.pdb
+C:\Users\Kalia\Desktop\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10-12ArreglosMetodos.csproj.AssemblyReference.cache
+C:\Users\Kalia\Desktop\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.Form1.resources
+C:\Users\Kalia\Desktop\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.Properties.Resources.resources
+C:\Users\Kalia\Desktop\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10-12ArreglosMetodos.csproj.GenerateResource.cache
+C:\Users\Kalia\Desktop\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10-12ArreglosMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Kalia\Desktop\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10-12ArreglosMetodos.exe
+C:\Users\Kalia\Desktop\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10-12ArreglosMetodos.pdb
+C:\Users\Kalia\Desktop\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.FrmEstudiante.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\bin\Debug\Clase11_f10-12ArreglosMetodos.exe.config
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\bin\Debug\Clase11_f10-12ArreglosMetodos.exe
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\bin\Debug\Clase11_f10-12ArreglosMetodos.pdb
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10-12ArreglosMetodos.csproj.AssemblyReference.cache
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.Form1.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.FrmEstudiante.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.Properties.Resources.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10-12ArreglosMetodos.csproj.GenerateResource.cache
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10-12ArreglosMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10-12ArreglosMetodos.exe
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10-12ArreglosMetodos.pdb
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.MenuDocente.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.MenuEstudiante.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.portada.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.DocenteShell.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.DocenteHeapSort.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.DocenteInsercion.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.DocenteMergeSort.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.DocenteQuickSort.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.EstudianteHeapsort.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.EstudianteInsercion.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.EstudianteMergeSort.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.EstudianteQuickSort.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\Clase arreglo de métodos\Clase11_f10-12ArreglosMetodos\obj\Debug\Clase11_f10_12ArreglosMetodos.EstudianteShell.resources

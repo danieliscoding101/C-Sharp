@@ -1,0 +1,10 @@
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\ClaseBasesDeDatos\BasesDeDatos\bin\Debug\BasesDeDatos.exe.config
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\ClaseBasesDeDatos\BasesDeDatos\bin\Debug\BasesDeDatos.exe
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\ClaseBasesDeDatos\BasesDeDatos\bin\Debug\BasesDeDatos.pdb
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\ClaseBasesDeDatos\BasesDeDatos\obj\Debug\BasesDeDatos.csproj.AssemblyReference.cache
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\ClaseBasesDeDatos\BasesDeDatos\obj\Debug\BasesDeDatos.Form1.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\ClaseBasesDeDatos\BasesDeDatos\obj\Debug\BasesDeDatos.Properties.Resources.resources
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\ClaseBasesDeDatos\BasesDeDatos\obj\Debug\BasesDeDatos.csproj.GenerateResource.cache
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\ClaseBasesDeDatos\BasesDeDatos\obj\Debug\BasesDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\ClaseBasesDeDatos\BasesDeDatos\obj\Debug\BasesDeDatos.exe
+C:\Users\Kalia\Documents\A LA U\Programación II\Segundo parcial\ClaseBasesDeDatos\BasesDeDatos\obj\Debug\BasesDeDatos.pdb

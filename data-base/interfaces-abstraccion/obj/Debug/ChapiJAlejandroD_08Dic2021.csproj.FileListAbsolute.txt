@@ -1,0 +1,11 @@
+C:\Users\Kalia\Desktop\Deber progra intefaces y abstracción\ChapiJAlejandroD_08Dic2021\bin\Debug\ChapiJAlejandroD_08Dic2021.exe.config
+C:\Users\Kalia\Desktop\Deber progra intefaces y abstracción\ChapiJAlejandroD_08Dic2021\bin\Debug\ChapiJAlejandroD_08Dic2021.exe
+C:\Users\Kalia\Desktop\Deber progra intefaces y abstracción\ChapiJAlejandroD_08Dic2021\bin\Debug\ChapiJAlejandroD_08Dic2021.pdb
+C:\Users\Kalia\Desktop\Deber progra intefaces y abstracción\ChapiJAlejandroD_08Dic2021\obj\Debug\ChapiJAlejandroD_08Dic2021.csproj.AssemblyReference.cache
+C:\Users\Kalia\Desktop\Deber progra intefaces y abstracción\ChapiJAlejandroD_08Dic2021\obj\Debug\ChapiJAlejandroD_08Dic2021.Form1.resources
+C:\Users\Kalia\Desktop\Deber progra intefaces y abstracción\ChapiJAlejandroD_08Dic2021\obj\Debug\ChapiJAlejandroD_08Dic2021.Properties.Resources.resources
+C:\Users\Kalia\Desktop\Deber progra intefaces y abstracción\ChapiJAlejandroD_08Dic2021\obj\Debug\ChapiJAlejandroD_08Dic2021.csproj.GenerateResource.cache
+C:\Users\Kalia\Desktop\Deber progra intefaces y abstracción\ChapiJAlejandroD_08Dic2021\obj\Debug\ChapiJAlejandroD_08Dic2021.csproj.CoreCompileInputs.cache
+C:\Users\Kalia\Desktop\Deber progra intefaces y abstracción\ChapiJAlejandroD_08Dic2021\obj\Debug\ChapiJAlejandroD_08Dic2021.exe
+C:\Users\Kalia\Desktop\Deber progra intefaces y abstracción\ChapiJAlejandroD_08Dic2021\obj\Debug\ChapiJAlejandroD_08Dic2021.pdb
+C:\Users\Kalia\Desktop\Deber progra intefaces y abstracción\ChapiJAlejandroD_08Dic2021\obj\Debug\ChapiJAlejandroD_08Dic2021.FEstudiante.resources

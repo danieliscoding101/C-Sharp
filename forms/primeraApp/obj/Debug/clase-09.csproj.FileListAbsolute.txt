@@ -1,0 +1,24 @@
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\bin\Debug\clase-09.exe.config
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\bin\Debug\clase-09.exe
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\bin\Debug\clase-09.pdb
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\obj\Debug\clase-09.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\obj\Debug\clase_09.Properties.Resources.resources
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\obj\Debug\clase-09.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\obj\Debug\clase-09.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\obj\Debug\clase-09.exe
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\obj\Debug\clase-09.pdb
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\obj\Debug\clase_09.Form1.resources
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\obj\Debug\clase_09.frmAhorros.resources
+C:\Users\USER\Desktop\Materias\Tercer semestre\PROGRAMACION 2\ejercicios\clase-09\obj\Debug\clase_09.Formularios.frmCorriente.resources
+C:\Users\Kalia\Desktop\clase-09\bin\Debug\clase-09.exe.config
+C:\Users\Kalia\Desktop\clase-09\bin\Debug\clase-09.exe
+C:\Users\Kalia\Desktop\clase-09\bin\Debug\clase-09.pdb
+C:\Users\Kalia\Desktop\clase-09\obj\Debug\clase-09.csproj.AssemblyReference.cache
+C:\Users\Kalia\Desktop\clase-09\obj\Debug\clase_09.Form1.resources
+C:\Users\Kalia\Desktop\clase-09\obj\Debug\clase_09.frmAhorros.resources
+C:\Users\Kalia\Desktop\clase-09\obj\Debug\clase_09.Formularios.frmCorriente.resources
+C:\Users\Kalia\Desktop\clase-09\obj\Debug\clase_09.Properties.Resources.resources
+C:\Users\Kalia\Desktop\clase-09\obj\Debug\clase-09.csproj.GenerateResource.cache
+C:\Users\Kalia\Desktop\clase-09\obj\Debug\clase-09.csproj.CoreCompileInputs.cache
+C:\Users\Kalia\Desktop\clase-09\obj\Debug\clase-09.exe
+C:\Users\Kalia\Desktop\clase-09\obj\Debug\clase-09.pdb

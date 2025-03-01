@@ -1,0 +1,10 @@
+C:\Users\Kalia\Desktop\Clases abstractas\Clase 09 Clases Abstractas\ClasesAbstractas\bin\Debug\ClasesAbstractas.exe.config
+C:\Users\Kalia\Desktop\Clases abstractas\Clase 09 Clases Abstractas\ClasesAbstractas\bin\Debug\ClasesAbstractas.exe
+C:\Users\Kalia\Desktop\Clases abstractas\Clase 09 Clases Abstractas\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Kalia\Desktop\Clases abstractas\Clase 09 Clases Abstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.AssemblyReference.cache
+C:\Users\Kalia\Desktop\Clases abstractas\Clase 09 Clases Abstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.Form1.resources
+C:\Users\Kalia\Desktop\Clases abstractas\Clase 09 Clases Abstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.Properties.Resources.resources
+C:\Users\Kalia\Desktop\Clases abstractas\Clase 09 Clases Abstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.GenerateResource.cache
+C:\Users\Kalia\Desktop\Clases abstractas\Clase 09 Clases Abstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Kalia\Desktop\Clases abstractas\Clase 09 Clases Abstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.exe
+C:\Users\Kalia\Desktop\Clases abstractas\Clase 09 Clases Abstractas\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
